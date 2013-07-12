@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverity SYSTEM "coverity_config.dtd">
+<coverity>
+<config>
+	<!--Connect Infomation -->
+    <host>localhost</host>
+	<port>8080</port>
+	<user>admin</user>
+    <password>coverity</password>
+	<project>demo</project>
+	<stream>demo</stream>
+
+	<!--以下是模块列表，用英文逗号分割，中间没有空格，格式为 map.name-->
+	<!--此模块列表一定要手动在Connect中新建，不能使用默认的Default.Other-->
+	<componentList></componentList>
+
+
+	<!--包括以上模块“N”，还是排除以上模块“Y”-->
+	<componentExclude>N</componentExclude>
+	
+	<!--Word Report Infomation -->
+	<analyzeVer>Coverity Qulity Advisor v6.6.0</analyzeVer>
+	<projectName>Demo for Use 660</projectName>
+	<version>6.6.0</version>
+	<contact>王海龙
+项目经理
+hl.wang@gmail.com</contact>
+	<testCompany>Coverity 公司</testCompany>
+	<testContact>Yh.liu
+18001305722
+yh.liu@autosoft.com.cn</testContact>
+	
+	
+</config>
+</coverity>

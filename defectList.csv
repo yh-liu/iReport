@@ -1,0 +1,219 @@
+'10001', Out-of-bounds access, ARRAY_VS_SINGLETON, none, Memory - corruptions, Memory - corruptions, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10002', Unchecked return value, CHECKED_RETURN, none, Error handling issues, Error handling issues, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10003', Unchecked return value, CHECKED_RETURN, none, Error handling issues, Error handling issues, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10004', Unchecked return value from library, CHECKED_RETURN, library_function, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10005', Unchecked return value from library, CHECKED_RETURN, library_function, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10006', Unchecked return value from library, CHECKED_RETURN, library_function, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10007', Unchecked return value from library, CHECKED_RETURN, library_function, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10008', Unchecked return value, CHECKED_RETURN, none, Error handling issues, Error handling issues, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10009', Unchecked return value, CHECKED_RETURN, none, Error handling issues, Error handling issues, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10010', Unchecked return value, CHECKED_RETURN, none, Error handling issues, Error handling issues, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10011', Unchecked return value, CHECKED_RETURN, none, Error handling issues, Error handling issues, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10012', Copy-paste error, COPY_PASTE_ERROR, none, Incorrect expression, Incorrect expression, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10013', Resource leak in object, CTOR_DTOR_LEAK, none, Resource leaks, Resource leaks, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10014', Logically dead code, DEADCODE, none, Control flow issues, Control flow issues, Medium, msVCProj.apacheOther, Triaged, Bug, Unspecified, Unassigned
+'10015', Logically dead code, DEADCODE, none, Control flow issues, Control flow issues, Medium, msVCProj.apacheOther, Triaged, Bug, Unspecified, Unassigned
+'10016', Deleting void pointer, DELETE_VOID, none, Memory - illegal accesses, Memory - illegal accesses, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10017', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10018', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10019', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10020', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10021', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10022', Explicit null dereferenced, FORWARD_NULL, deref_constant_null, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10023', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10024', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10025', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10026', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10027', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10028', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10029', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10030', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10031', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10032', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10033', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10034', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10035', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10036', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10037', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10038', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10039', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10040', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10041', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10042', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10043', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10044', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10045', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10046', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10047', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10048', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10049', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10050', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10051', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10052', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10053', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10054', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10055', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10056', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10057', Unchecked dynamic_cast, FORWARD_NULL, dynamic_cast, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10058', Dereference after null check, FORWARD_NULL, none, Null pointer dereferences, Null pointer dereferences, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10059', Missing break in switch, MISSING_BREAK, none, Control flow issues, Control flow issues, Medium, msVCProj.core, Dismissed, Intentional, Unspecified, Unassigned
+'10060', Missing break in switch, MISSING_BREAK, none, Control flow issues, Control flow issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10061', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10062', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10063', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10064', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10065', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10066', Negative array index read, NEGATIVE_RETURNS, array_index_read, Memory - illegal accesses, Memory - illegal accesses, High, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10067', Negative array index read, NEGATIVE_RETURNS, array_index_read, Memory - illegal accesses, Memory - illegal accesses, High, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10068', Negative array index read, NEGATIVE_RETURNS, array_index_read, Memory - illegal accesses, Memory - illegal accesses, High, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10069', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10070', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10071', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10072', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10073', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10074', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10075', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10076', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10077', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10078', Improper use of negative value, NEGATIVE_RETURNS, none, Integer handling issues, Integer handling issues, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10079', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10080', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, Dismissed, Intentional, Unspecified, Unassigned
+'10081', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10082', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10083', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10084', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10085', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10086', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10087', Unsigned compared against 0, NO_EFFECT, unsigned_compare, Control flow issues, Control flow issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10088', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10089', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10090', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10091', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10092', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10093', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10094', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10095', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10096', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10097', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10098', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10099', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10100', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10101', Array compared against 0, NO_EFFECT, array_null, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10102', Out-of-bounds write, OVERRUN, write, Memory - corruptions, Memory - corruptions, High, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10103', Out-of-bounds write, OVERRUN, write, Memory - corruptions, Memory - corruptions, High, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10104', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10105', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10106', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10107', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10108', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10109', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10110', Out-of-bounds access, OVERRUN, none, Memory - corruptions, Memory - corruptions, High, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10111', Big parameter passed by value, PASS_BY_VALUE, none, Performance inefficiencies, Performance inefficiencies, Low, msVCProj.gui, Dismissed, Intentional, Unspecified, Unassigned
+'10112', Resource leak, RESOURCE_LEAK, none, Resource leaks, Resource leaks, High, msVCProj.apacheOther, Triaged, Bug, Unspecified, Unassigned
+'10113', Wrong sizeof argument, SIZEOF_MISMATCH, wrong_sizeof, Incorrect expression, Incorrect expression, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10114', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.core, Dismissed, False Positive, Unspecified, Unassigned
+'10115', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10116', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10117', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10118', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10119', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10120', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10121', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10122', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10123', Uncaught exception, UNCAUGHT_EXCEPT, none, Error handling issues, Error handling issues, Medium, msVCProj.apacheOther, New, Unclassified, Unspecified, Unassigned
+'10124', Uninitialized scalar variable, UNINIT, none, Uninitialized variables, Uninitialized variables, High, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10125', Uninitialized scalar variable, UNINIT, none, Uninitialized variables, Uninitialized variables, High, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10126', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10127', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10128', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10129', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10130', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10131', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10132', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10133', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, Dismissed, Intentional, Unspecified, Unassigned
+'10134', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10135', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10136', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10137', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10138', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10139', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10140', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10141', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10142', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10143', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10144', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, Dismissed, Intentional, Unspecified, Unassigned
+'10145', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10146', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10147', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10148', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10149', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10150', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10151', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10152', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10153', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10154', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10155', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10156', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10157', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10158', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10159', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10160', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10161', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.core, New, Unclassified, Unspecified, Unassigned
+'10162', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10163', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10164', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10165', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10166', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10167', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10168', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10169', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10170', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10171', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10172', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10173', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10174', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10175', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10176', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10177', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10178', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10179', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10180', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10181', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10182', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10183', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10184', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10185', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10186', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10187', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10188', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10189', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10190', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10191', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10192', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10193', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10194', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10195', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10196', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10197', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10198', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10199', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10200', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10201', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10202', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10203', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.apacheOther, Dismissed, Intentional, Unspecified, Unassigned
+'10204', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10205', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10206', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10207', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10208', Uninitialized scalar field, UNINIT_CTOR, none, Uninitialized members, Uninitialized members, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10209', Uninitialized pointer field, UNINIT_CTOR, pointer, Uninitialized members, Uninitialized members, Medium, msVCProj.msVCInc, New, Unclassified, Unspecified, Unassigned
+'10210', Structurally dead code, UNREACHABLE, none, Control flow issues, Control flow issues, Medium, msVCProj.core, Triaged, Bug, Unspecified, Unassigned
+'10211', Structurally dead code, UNREACHABLE, none, Control flow issues, Control flow issues, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10212', Structurally dead code, UNREACHABLE, none, Control flow issues, Control flow issues, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10213', Structurally dead code, UNREACHABLE, none, Control flow issues, Control flow issues, Medium, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
+'10214', Structurally dead code, UNREACHABLE, none, Control flow issues, Control flow issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10215', Structurally dead code, UNREACHABLE, none, Control flow issues, Control flow issues, Medium, msVCProj.network, New, Unclassified, Unspecified, Unassigned
+'10216', Unused pointer value, UNUSED_VALUE, none, Code maintainability issues, Code maintainability issues, Low, msVCProj.gui, Triaged, Bug, Unspecified, Unassigned
+'10217', Unused pointer value, UNUSED_VALUE, none, Code maintainability issues, Code maintainability issues, Low, msVCProj.gui, Triaged, Bug, Unspecified, Unassigned
+'10218', Unused pointer value, UNUSED_VALUE, none, Code maintainability issues, Code maintainability issues, Low, msVCProj.gui, Triaged, Bug, Unspecified, Unassigned
+'10219', Use after free, USE_AFTER_FREE, none, Memory - illegal accesses, Memory - illegal accesses, High, msVCProj.gui, New, Unclassified, Unspecified, Unassigned
